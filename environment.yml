@@ -1,0 +1,14 @@
+name: teaching
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - jupyterlab
+  - numpy
+  - scikit-learn
+  - pillow
+  - tqdm
+  - matplotlib
+  - tensorflow
+  - keras
